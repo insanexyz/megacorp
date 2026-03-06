@@ -1,3 +1,7 @@
 partner list
 Dino master
 comp
+p1
+p2
+p3
+p4
